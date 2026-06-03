@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola, soy Nicolás Andretta 👋
 
-<!--
-**NicolasAndretta/NicolasAndretta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack con foco en soluciones reales para negocios.
+Trabajo con Next.js, TypeScript, Node.js y actualmente estoy expandiéndome
+hacia automatizaciones con IA y chatbots para WhatsApp.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyecto destacado
+
+### [369 Detail Studio](https://github.com/NicolasAndretta/369-detail-studio)
+Landing premium para un estudio de detailing automotor en Buenos Aires.
+Next.js 16 · TypeScript · Framer Motion · Deploy en Hostinger con CI/CD desde GitHub.
+
+🌐 [Ver en producción](https://steelblue-bear-881853.hostingersite.com)
+
+---
+
+## 🛠️ Tecnologías
+
+**Frontend:** Next.js · React · TypeScript · JavaScript · HTML · CSS  
+**Backend:** Node.js · Express  
+**Herramientas:** Git · GitHub · Vercel · Hostinger
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás%20Andretta-blue)](https://linkedin.com/in/nicolas-andretta-483220397)
