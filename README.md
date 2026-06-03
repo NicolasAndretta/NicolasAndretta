@@ -26,4 +26,4 @@ Next.js 16 · TypeScript · Framer Motion · Deploy en Hostinger con CI/CD desde
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás%20Andretta-blue)](https://linkedin.com/in/nicolas-andretta-483220397)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás%20Andretta-blue)](https://linkedin.com/in/nicolas-andretta)
